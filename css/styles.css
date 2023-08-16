@@ -35,7 +35,7 @@ html {
 /* Custom Styles */
 
 main { 
-        background: #00000;
+        background-color: "black";
 	color: #FAFAFA;
 	display: flex;
 	flex-direction: column;
